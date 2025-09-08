@@ -7,7 +7,7 @@
    <h1 align="center" style="margin: 0; background: linear-gradient(135deg,rgb(0, 0, 0),rgb(0, 116, 233)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 28px; font-weight: 300; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; letter-spacing: 1px; transition: all 0.5s ease; position: relative; z-index: 2; cursor: pointer;" 
        onmouseover="this.style.background='linear-gradient(45deg, #FF6B6B, #4ECDC4, #45B7D1, #96CEB4, #FFEAA7, #FF6B6B)'; this.style.backgroundSize='400% 400%'; this.style.animation='gradientShift 2s ease infinite'; this.style.transform='scale(1.1) rotate(2deg)'; this.style.textShadow='0 0 30px rgba(255, 107, 107, 0.5)'; this.style.letterSpacing='3px';" 
        onmouseout="this.style.background='linear-gradient(135deg,rgb(102, 102, 102),rgb(0, 116, 233))'; this.style.backgroundSize='100% 100%'; this.style.animation='none'; this.style.transform='scale(1) rotate(0deg)'; this.style.textShadow='none'; this.style.letterSpacing='1px';">
-      ⚡ AI & Solana Blockchain ⚡
+      ⚡ Solana & Mobile App AI ⚡
    </h1>
    
    <!-- Subtitle with Minimalist Style -->
@@ -22,8 +22,8 @@
 
 ### 🌐 Connect with me:
 
-- [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/Generation_of_Star) - @Generation_of_Star
-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/ksimj.) -     𝓂☯𝓃𝑔 
+- [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/[https://t.me/dev_business1112](https://t.me/dev_business1112)) - @Generation_of_Star
+- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/ronikan_221112_78646) - ronikan_221112_78646
 
 <!-- - [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=flat&logo=skype&logoColor=white)](skype:live:.cid.16dac497b946b44b?chat) - live:.cid.16dac497b946b44b -->
 <!-- - [![Email](https://img.shields.io/badge/Email-mailto%Phoenixryan1111%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:Phoenixryan1111@gmail.com) - Phoenix -->
